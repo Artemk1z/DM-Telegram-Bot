@@ -24,6 +24,7 @@ Main info
 
 ## Other
 > This bot was written in a couple of evenings surrounded by my cat and cup of green tea with lemon.    
-> If you have any questions or suggestions, please contact me:    
-> [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artemk1z_bot)
-> <a href="mailto:artembariev.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+> **If you have any questions or suggestions, please contact me:**
+> 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Artemk1z_bot)
+<a href="mailto:artembariev.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
