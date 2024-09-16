@@ -10,14 +10,6 @@ Main info
 
 
 
-
-
-
-
-
-
-
-
 --->
 
 ## Functional
