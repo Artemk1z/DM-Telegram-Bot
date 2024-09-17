@@ -24,6 +24,11 @@ python-telegram-bot
 **Install:** ``` pip install -r requirements.txt ```
 
 ## Run
+- Step one:
 ```
 python telegram_bot.py
+```
+- Step two:
+```
+managment_bot.py
 ```
